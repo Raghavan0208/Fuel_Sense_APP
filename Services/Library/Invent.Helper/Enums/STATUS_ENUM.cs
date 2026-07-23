@@ -1,0 +1,12 @@
+﻿namespace Invent.Helper;
+
+public enum STATUS_ENUM
+{ 
+    PENDING = 1,
+    ACTIVEPLAN = 2,
+    CANCELLED = 3,
+    PAYMENTCOMPLETED = 4,
+    PAYMENTINPROGRESS = 5,
+    PAYMENTFAILED = 6,
+    PAYMENTCANCELLED = 7,
+}

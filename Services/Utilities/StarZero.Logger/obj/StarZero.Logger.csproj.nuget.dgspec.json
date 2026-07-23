@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj": {}
+  },
+  "projects": {
+    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
+        "projectName": "StarZero.Logger",
+        "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+ storeFile file('STARZero_key')
+            storePassword 'Invent@123'
+            keyAlias 'starzero'
+            keyPassword 'Invent@123'

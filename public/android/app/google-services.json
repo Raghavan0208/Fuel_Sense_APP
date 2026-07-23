@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722263620785",
+    "project_id": "fuelsense-f19c2",
+    "storage_bucket": "fuelsense-f19c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722263620785:android:bdded63c1e266c33093690",
+        "android_client_info": {
+          "package_name": "com.fuelsense.org"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD-wWjlbiAtaWgLuIsk4NVkn2m6SmgiCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
