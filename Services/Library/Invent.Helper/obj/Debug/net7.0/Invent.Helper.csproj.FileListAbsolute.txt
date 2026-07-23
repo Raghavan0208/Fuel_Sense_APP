@@ -1,0 +1,13 @@
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/bin/Debug/net7.0/Invent.Helper.deps.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/bin/Debug/net7.0/Invent.Helper.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/bin/Debug/net7.0/Invent.Helper.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.csproj.AssemblyReference.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.AssemblyInfoInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.AssemblyInfo.cs
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.csproj.CoreCompileInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.sourcelink.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/refint/Invent.Helper.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/Invent.Helper.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/Debug/net7.0/ref/Invent.Helper.dll

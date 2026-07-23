@@ -1,0 +1,7 @@
+2026-07-23 23:48:47.435 +05:30 [Warning] [TraceId:]- Failed to determine the https port for redirect.
+2026-07-23 23:48:47.482 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"
+2026-07-23 23:48:47.503 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"
+2026-07-23 23:48:48.131 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"
+2026-07-23 23:48:48.131 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"
+2026-07-23 23:48:48.131 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"
+2026-07-23 23:48:49.944 +05:30 [Information] [TraceId:]- "BaseSecurityAPIkey" was not authenticated. Failure message: "Token is null"

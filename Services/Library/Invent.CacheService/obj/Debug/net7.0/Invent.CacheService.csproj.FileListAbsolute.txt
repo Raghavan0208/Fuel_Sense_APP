@@ -1,0 +1,16 @@
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/bin/Debug/net7.0/Invent.CacheService.deps.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/bin/Debug/net7.0/Invent.CacheService.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/bin/Debug/net7.0/Invent.CacheService.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/bin/Debug/net7.0/Invent.Helper.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/bin/Debug/net7.0/Invent.Helper.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.csproj.AssemblyReference.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.AssemblyInfoInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.AssemblyInfo.cs
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.csproj.CoreCompileInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.sourcelink.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.C.638A2CFC.Up2Date
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/refint/Invent.CacheService.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/Invent.CacheService.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/obj/Debug/net7.0/ref/Invent.CacheService.dll

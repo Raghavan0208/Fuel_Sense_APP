@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj": {}
+    "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj": {}
   },
   "projects": {
-    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj": {
+    "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj",
+        "projectUniqueName": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj",
         "projectName": "Invent.Helper",
-        "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\obj\\",
+        "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj",
+        "packagesPath": "/Users/nandhu/.nuget/packages/",
+        "outputPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nandhu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
+            "framework": "net7.0",
             "targetAlias": "net7.0",
             "projectReferences": {}
           }
@@ -34,10 +33,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Hosting.Abstractions": {
@@ -93,32 +99,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj": {
+    "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
+        "projectUniqueName": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj",
         "projectName": "StarZero.Logger",
-        "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\obj\\",
+        "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj",
+        "packagesPath": "/Users/nandhu/.nuget/packages/",
+        "outputPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nandhu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
+            "framework": "net6.0",
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
@@ -127,10 +132,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "dependencies": {
             "Serilog": {
@@ -165,44 +177,53 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj": {
+    "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj",
+        "projectUniqueName": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj",
         "projectName": "StarZero.UploadHelper",
-        "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\obj\\",
+        "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj",
+        "packagesPath": "/Users/nandhu/.nuget/packages/",
+        "outputPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nandhu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
+            "framework": "net7.0",
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj": {
-                "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj"
+              "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj": {
+                "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj"
               },
-              "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj": {
-                "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj"
+              "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj": {
+                "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj"
               }
             }
           }
@@ -211,10 +232,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "dependencies": {
             "AWSSDK.S3": {
@@ -242,7 +270,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

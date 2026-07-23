@@ -89,6 +89,14 @@ public class DatabaseConfiguration
 
     public string DBConnectionStringUSA { get; set; }
 
+    public string DBConnectionStringAUS { get; set; }
+    
+    public string DBConnectionStringCA { get; set; }
+    
+    public string DBConnectionStringFRCA { get; set; }
+    
+    public string DBConnectionStringINTL { get; set; }
+
 
     public string ProviderName { get; set; }
 }

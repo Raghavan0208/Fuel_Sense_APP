@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net7.0": {
       "AutoMapper/12.0.1": {
@@ -12220,52 +12220,51 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/Users/nandhu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.Model\\StarZero.Model.csproj",
+      "projectUniqueName": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.Model/StarZero.Model.csproj",
       "projectName": "StarZero.Model",
-      "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.Model\\StarZero.Model.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.Model\\obj\\",
+      "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.Model/StarZero.Model.csproj",
+      "packagesPath": "/Users/nandhu/.nuget/packages/",
+      "outputPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.Model/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nandhu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
+          "framework": "net7.0",
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.Contracts\\StarZero.Contracts.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.Contracts\\StarZero.Contracts.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.Contracts/StarZero.Contracts.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.Contracts/StarZero.Contracts.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.DataMappers\\StarZero.DataMappers.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.DataMappers\\StarZero.DataMappers.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.DataMappers/StarZero.DataMappers.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.DataMappers/StarZero.DataMappers.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.DBO\\StarZero.DBO.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.DBO\\StarZero.DBO.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.DBO/StarZero.DBO.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.DBO/StarZero.DBO.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.ViewEntities\\StarZero.ViewEntities.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Core\\StarZero.ViewEntities\\StarZero.ViewEntities.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.ViewEntities/StarZero.ViewEntities.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Core/StarZero.ViewEntities/StarZero.ViewEntities.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.CacheService\\Invent.CacheService.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.CacheService\\Invent.CacheService.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/Invent.CacheService.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.CacheService/Invent.CacheService.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Library\\Invent.Helper\\Invent.Helper.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Library/Invent.Helper/Invent.Helper.csproj"
             },
-            "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj": {
-              "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.UploadHelper\\StarZero.UploadHelper.csproj"
+            "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj": {
+              "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.UploadHelper/StarZero.UploadHelper.csproj"
             }
           }
         }
@@ -12274,10 +12273,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net7.0": {
+        "framework": "net7.0",
         "targetAlias": "net7.0",
         "dependencies": {
           "AutoMapper": {
@@ -12361,11 +12367,21 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
     {
       "code": "NU1903",
       "level": "Warning",

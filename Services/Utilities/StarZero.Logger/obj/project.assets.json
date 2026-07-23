@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net6.0": {
       "Microsoft.Extensions.Configuration/2.0.0": {
@@ -2247,30 +2247,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/Users/nandhu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
+      "projectUniqueName": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj",
       "projectName": "StarZero.Logger",
-      "projectPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\StarZero.Logger.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Fuelsense_App_temp\\FuelSense\\Services\\Utilities\\StarZero.Logger\\obj\\",
+      "projectPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/StarZero.Logger.csproj",
+      "packagesPath": "/Users/nandhu/.nuget/packages/",
+      "outputPath": "/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nandhu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
+          "framework": "net6.0",
           "targetAlias": "net6.0",
           "projectReferences": {}
         }
@@ -2279,10 +2278,17 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net6.0": {
+        "framework": "net6.0",
         "targetAlias": "net6.0",
         "dependencies": {
           "Serilog": {
@@ -2317,12 +2323,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,16 @@
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/bin/Debug/net7.0/StarZero.Attributes.deps.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/bin/Debug/net7.0/StarZero.Attributes.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/bin/Debug/net7.0/StarZero.Attributes.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/bin/Debug/net7.0/Invent.Helper.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/bin/Debug/net7.0/Invent.Helper.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.csproj.AssemblyReference.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.AssemblyInfoInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.AssemblyInfo.cs
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.csproj.CoreCompileInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.sourcelink.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.035D6D6E.Up2Date
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/refint/StarZero.Attributes.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/StarZero.Attributes.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Attributes/obj/Debug/net7.0/ref/StarZero.Attributes.dll

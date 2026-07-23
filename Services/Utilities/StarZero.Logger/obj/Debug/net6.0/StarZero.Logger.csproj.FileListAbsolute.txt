@@ -1,0 +1,13 @@
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/bin/Debug/net6.0/StarZero.Logger.deps.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/bin/Debug/net6.0/StarZero.Logger.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/bin/Debug/net6.0/StarZero.Logger.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.csproj.AssemblyReference.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.AssemblyInfoInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.AssemblyInfo.cs
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.csproj.CoreCompileInputs.cache
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.sourcelink.json
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/refint/StarZero.Logger.dll
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/StarZero.Logger.pdb
+/Users/nandhu/Documents/GitHub/Fuel_Sense_APP/Services/Utilities/StarZero.Logger/obj/Debug/net6.0/ref/StarZero.Logger.dll

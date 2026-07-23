@@ -21,20 +21,39 @@ public class BaseModel<T> : Repository<T> where T : EntityBase
         var result = database.CoreDBConnectionString;
 
         switch (context?.CountryCode?.ToUpper())
-        {
-            case "IN":
-                result = database.DBConnectionStringIN;
-                break;
-            case "UK":
-                result = database.DBConnectionStringUK;
-                break;
-            case "USA":
-                result = database.DBConnectionStringUSA;
-                break;
-            default:
-                result = database.CoreDBConnectionString;
-                break;
-        }
+{
+    case "IN":
+        result = database.DBConnectionStringIN;
+        break;
+
+    case "UK":
+        result = database.DBConnectionStringUK;
+        break;
+
+    case "USA":
+        result = database.DBConnectionStringUSA;
+        break;
+
+    case "AUS":
+        result = database.DBConnectionStringAUS;
+        break;
+
+    case "CA":
+        result = database.DBConnectionStringCA;
+        break;
+
+    case "FRCA":
+        result = database.DBConnectionStringFRCA;
+        break;
+
+    case "INTL":
+        result = database.DBConnectionStringINTL;
+        break;
+
+    default:
+        result = database.CoreDBConnectionString;
+        break;
+}
 
         return result;
     }
